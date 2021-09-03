@@ -1,0 +1,10 @@
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\bin\Debug\KayitUygulama.exe.config
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\bin\Debug\KayitUygulama.exe
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\bin\Debug\KayitUygulama.pdb
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\obj\Debug\KayitUygulama.csprojAssemblyReference.cache
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\obj\Debug\KayitUygulama.Form1.resources
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\obj\Debug\KayitUygulama.Properties.Resources.resources
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\obj\Debug\KayitUygulama.csproj.GenerateResource.cache
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\obj\Debug\KayitUygulama.csproj.CoreCompileInputs.cache
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\obj\Debug\KayitUygulama.exe
+C:\Users\İSMET KARA\Source\Repos\KayitUygulama\obj\Debug\KayitUygulama.pdb
